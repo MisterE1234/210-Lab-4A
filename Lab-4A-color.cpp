@@ -1,4 +1,7 @@
- #include <iostream>
+//COMSC-210|Lab-4A|Ethan Aylard
+//IDE used: vidual studio code
+
+#include <iostream>
  #include <vector>
  #include <cstdlib>
  #include <ctime>
